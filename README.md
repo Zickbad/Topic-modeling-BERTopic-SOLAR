@@ -1,4 +1,4 @@
-# **Topic Modeling with SOLAR** ☀️
+# **Topic Modeling with SOLAR-10.7B-Instruct-v1.0** ☀️
 <br>
 
 Let's explore how we can use SOLAR for Topic Modeling without the need to pass each document individually to the model. Instead, we'll leverage BERTopic, a topic modeling technique that can use any LLM to refine topic representations.

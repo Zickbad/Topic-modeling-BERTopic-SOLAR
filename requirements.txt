@@ -1,0 +1,10 @@
+bertopic==0.16.0
+accelerate==0.23.0
+bitsandbytes==0.41.1
+xformers==0.0.22
+adjustText==0.8
+torch==2.0.1
+seaborn==0.13.0
+tqdm==4.66.1
+transformers==4.36.1
+openpyxl==3.1.2

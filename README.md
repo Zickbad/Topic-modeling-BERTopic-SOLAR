@@ -15,7 +15,9 @@ This approach combines the best of both worlds: the topic creation of BERTopic a
 <img src="images/figure-1.png" align="center" />
 
 
+## Getting Started
 
+Before start install ```requirements.txt```
 
 | Name  | Link  |
 |---|---|

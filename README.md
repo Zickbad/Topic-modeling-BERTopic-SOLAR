@@ -23,7 +23,6 @@ Before start install ```requirements.txt```
 |---|---|
 | **Topic Modeling using BERTopic and SOLAR ☀️**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KhcrFKpUjXIctm5ciO5dRhUrLn2NUsN1?usp=sharing)  |
 | **Keywords Cosine Similarities**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jmC3ApWn-50GVD30lm0PJwwQT3StzoAi?usp=sharing)  |
-| **Statistical Analysis** | (WIP) |
 | **Data availability** (290.9 MB) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13346401.svg)](https://doi.org/10.5281/zenodo.13346401) |
 
 
